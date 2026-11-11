@@ -1,0 +1,17 @@
+{
+  "dataset": "Original Synthetic Road Sign Geometry Detection",
+  "seed": 42,
+  "image_size": 128,
+  "classes": [
+    "circle",
+    "square",
+    "triangle"
+  ],
+  "splits": {
+    "train": 150,
+    "val": 30,
+    "test": 30
+  },
+  "annotation_format": "filename,class,xmin,ymin,xmax,ymax",
+  "coordinates": "xyxy in pixels"
+}

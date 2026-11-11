@@ -1,0 +1,26 @@
+{
+  "AP50_per_class": {
+    "circle": 1.0,
+    "square": 1.0,
+    "triangle": 1.0
+  },
+  "mAP50": 1.0,
+  "precision_at_threshold": 1.0,
+  "recall_at_threshold": 1.0,
+  "f1_at_threshold": 1.0,
+  "threshold": 0.35,
+  "iou_threshold": 0.5,
+  "true_positive": 55,
+  "false_positive": 0,
+  "false_negative": 0,
+  "ground_truth_instances": 55,
+  "evaluated_images": 30,
+  "mean_matched_iou": 0.9122,
+  "mAP75": 1.0,
+  "AP75_per_class": {
+    "circle": 1.0,
+    "square": 1.0,
+    "triangle": 1.0
+  },
+  "trained_checkpoint_epoch": 11
+}

@@ -1,0 +1,12 @@
+{
+  "images": {
+    "train": 150,
+    "val": 30,
+    "test": 30
+  },
+  "train_instances_per_class": {
+    "square": 98,
+    "circle": 105,
+    "triangle": 101
+  }
+}

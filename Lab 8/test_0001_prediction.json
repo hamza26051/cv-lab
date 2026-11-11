@@ -1,0 +1,35 @@
+{
+  "input": "data/test/test_0001.png",
+  "predictions": [
+    {
+      "class": "triangle",
+      "confidence": 0.9984,
+      "bbox_xyxy": [
+        40.1,
+        92.37,
+        66.73,
+        118.9
+      ]
+    },
+    {
+      "class": "triangle",
+      "confidence": 0.996,
+      "bbox_xyxy": [
+        72.63,
+        29.11,
+        97.94,
+        53.84
+      ]
+    },
+    {
+      "class": "circle",
+      "confidence": 0.9937,
+      "bbox_xyxy": [
+        10.39,
+        17.08,
+        41.08,
+        48.67
+      ]
+    }
+  ]
+}

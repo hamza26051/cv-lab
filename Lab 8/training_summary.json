@@ -1,0 +1,9 @@
+{
+  "best_epoch": 5,
+  "best_val_mAP50": 1.0,
+  "training_seconds": 26.0,
+  "device": "cpu",
+  "epochs": 12,
+  "batch_size": 4,
+  "learning_rate": 0.001
+}
